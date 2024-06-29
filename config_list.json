@@ -1,0 +1,12 @@
+{
+    "config1": {
+        "name": "model1",
+        "endpoint": "http://localhost:8000/v1/chat/completions",
+        "model": "gpt-3.5-turbo"
+    },
+    "config2": {
+        "name": "model2",
+        "endpoint": "http://localhost:8000/v1/chat/completions",
+        "model": "gpt-3.5-turbo"
+    }
+}

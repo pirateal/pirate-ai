@@ -1,0 +1,4 @@
+{
+    "LOCAL_API_ENDPOINT": "http://localhost:8000/v1/chat/completions",
+    "WORKING_DIRECTORY": "working-directory"
+}

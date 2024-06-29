@@ -1,0 +1,2 @@
+# pirate-ai
+AGI attempt
